@@ -74,8 +74,8 @@ a:hover {
 
 .hero-image {
     background: #485460;
-    width: 500px;
-    height: 300px;
+    max-width: 500px;
+    max-height: 300px;
     border-radius: 8px;
     object-fit: cover;
     margin-top: 40px;
