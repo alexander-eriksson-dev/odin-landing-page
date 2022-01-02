@@ -43,6 +43,7 @@ a:hover {
 
 .links {
     display: flex;
+    flex-wrap: wrap;
     gap: 18px;
     font-size: 18px;
 }
@@ -53,6 +54,7 @@ a:hover {
     margin: 0 auto;
     padding: 90px 0 100px;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .hero-content {
