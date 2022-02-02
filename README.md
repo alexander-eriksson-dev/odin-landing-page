@@ -1,6 +1,8 @@
 # Landing Page
 
-Made for the project "Landing Page" in the foundations of [The Odin Project](www.theodinproject.com)
+Made for the project "Landing Page" in the foundations of [The Odin Project](https://www.theodinproject.com/)
+
+![Screenshot of Landing Page](https://i.imgur.com/G3WPrm5.png)
 
 ### [LIVE DEMO](https://alexander-eriksson-dev.github.io/odin-landing-page/)
 
